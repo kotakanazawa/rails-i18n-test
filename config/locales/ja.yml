@@ -1,0 +1,16 @@
+ja:
+  activerecord:
+    models:
+      user: ユーザー
+    attributes:
+      user:
+        name: 名前
+        email: Email
+  attributes:
+    created_at: 作成日時
+    updated_at: 更新日時
+  link:
+    edit: 編集
+    show: 詳細
+    destroy: 削除
+    back: 戻る
